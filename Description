@@ -1,1 +1,5 @@
-To solve this problem, I have used the graph data structure where I defined the routes(tickets available) in the code.Then I provided the start city and end city as the input in the code. There are a few conditions that need to be checked- if the start city and end city are the same, there are no routes available.If the given start place is not available in the graph, there are no routes available. Then, if there is a ticket for the start city, it checks, and then we should iterate the start city and end city based on the route provided. This is done until reaching the end city and the route is printed.
+To solve this problem, I have used the graph data structure where I defined the routes(tickets available) in the code.
+Then I provided the start city and end city as the input in the code. 
+There are a few conditions that need to be checked- if the start city and end city are the same, there are no routes available.
+If the given start place is not available in the graph, there are no routes available.Then, if there is a ticket for the start city, it checks, and then we should
+iterate the start city and end city based on the route provided. This is done until reaching the end city and the route is printed.
